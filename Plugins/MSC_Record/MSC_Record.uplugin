@@ -1,0 +1,38 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.25",
+	"FriendlyName": "MSC Screen Recorder",
+	"Description": "Real-time screen recording plugin. Easy to use and perfect for short recordings",
+	"Category": "Movie Capture",
+	"CreatedBy": "Michel Brito",
+	"CreatedByURL": "https://www.artstation.com/michelbrito",
+	"DocsURL": "https://docs.google.com/document/d/1tHT7fx4AiYOiBZroCDBsILsrvctw7Rg1/edit?usp=sharing&ouid=101163565769727550504&rtpof=true&sd=true",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/5dd54d3aeb804fa593f52a8de1d03767",
+	"SupportURL": "",
+	"EngineVersion": "5.1",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "MSC_Record",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32"
+			]
+		},
+		{
+			"Name": "MSC_Record_Editor",
+			"Type": "EditorNoCommandlet",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32"
+			]
+		}
+	]
+}
