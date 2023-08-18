@@ -49,6 +49,10 @@
 		{
 			"Name": "MfMedia",
 			"Enabled": true
+		},
+		{
+			"Name": "BlueprintFileUtils",
+			"Enabled": true
 		}
 	]
 }
