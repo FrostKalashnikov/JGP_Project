@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MSC_Record_Editor.cpp.obj": [
+			"MSC_Record_Editor.cpp.obj",
+			"PrepareProjectCommands.cpp.obj",
+			"PrepareProjectStyle.cpp.obj"
+		]
+	}
+}

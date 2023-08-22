@@ -1,0 +1,21 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MSC_Record.cpp.obj": [
+			"BaseRecord.gen.cpp.obj",
+			"MSC_AudioCaptureProtocol.gen.cpp.obj",
+			"MSC_Library.gen.cpp.obj",
+			"MSC_Record.init.gen.cpp.obj",
+			"MSC_VideoCaptureProtocol.gen.cpp.obj",
+			"RecordActor.gen.cpp.obj",
+			"RecordCameraManager.gen.cpp.obj",
+			"RecordViewportActor.gen.cpp.obj",
+			"BaseRecord.cpp.obj",
+			"MSC_Record.cpp.obj",
+			"MSC_VideoCaptureProtocol.cpp.obj",
+			"RecordActor.cpp.obj",
+			"RecordCameraManager.cpp.obj",
+			"RecordViewportActor.cpp.obj"
+		]
+	}
+}

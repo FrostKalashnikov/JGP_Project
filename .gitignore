@@ -73,4 +73,5 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-!Plugins/MSC_Record/*
+!Plugins/MSC_Record/**
+!JGP/**

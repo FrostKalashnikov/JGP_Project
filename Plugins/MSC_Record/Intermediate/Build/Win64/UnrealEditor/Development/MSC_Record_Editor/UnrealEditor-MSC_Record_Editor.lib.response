@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MSC_Record_Editor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Michel\Documents\Unreal Projects\JGP_Project\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\Michel\Documents\Unreal Projects\JGP_Project\Plugins\MSC_Record\Intermediate\Build\Win64\UnrealEditor\Development\MSC_Record_Editor\Module.MSC_Record_Editor.cpp.obj"
+"C:\Users\Michel\Documents\Unreal Projects\JGP_Project\Plugins\MSC_Record\Intermediate\Build\Win64\UnrealEditor\Development\MSC_Record_Editor\Default.rc2.res"
+/OUT:"C:\Users\Michel\Documents\Unreal Projects\JGP_Project\Plugins\MSC_Record\Intermediate\Build\Win64\UnrealEditor\Development\MSC_Record_Editor\UnrealEditor-MSC_Record_Editor.lib"

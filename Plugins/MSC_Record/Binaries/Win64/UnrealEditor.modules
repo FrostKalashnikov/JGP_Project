@@ -1,0 +1,8 @@
+{
+	"BuildId": "23058290",
+	"Modules": 
+	{
+		"MSC_Record": "UnrealEditor-MSC_Record.dll",
+		"MSC_Record_Editor": "UnrealEditor-MSC_Record_Editor.dll"
+	}
+}
