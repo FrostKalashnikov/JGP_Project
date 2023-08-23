@@ -1,12 +1,12 @@
 {
-	"outputFolder": "C:/Users/Michel/Documents/Unreal Projects/JGP_Project/JGP/RegisterData",
-	"inputFolder": "C:/Data/013_JGP_2023/Input",
+	"outputFolder": "F:/JGP_Project/JGP/RegisterData",
+	"inputFolder": "F:/JGP_Project/Data/013_JGP_2023/Input",
 	"contentTotalFiles" : 2,
 	"fileErrorName" : "ERROR.txt",
 	"photoFileFormat" : ".png",
 	"videofileFormat" : ".mp4",
-	"tempFolder" : "C:/Data/013_JGP_2023/Temp",
-	"contentFolder" : "C:/Users/Michel/Documents/Unreal Projects/JGP_Project/JGP/ContentFolder",
-	"photoFolder" : "C:/Data/013_JGP_2023/Photo",
-	"emailFolder" : "C:/Data/013_JGP_2023/Email"
+	"tempFolder" : "F:/JGP_Project/Data/013_JGP_2023/Temp",
+	"contentFolder" : "F:/JGP_Project/JGP/ContentFolder",
+	"photoFolder" : "F:/JGP_Project/Data/013_JGP_2023/Photo",
+	"emailFolder" : "F:/JGP_Project/Data/013_JGP_2023/Email"
 }
