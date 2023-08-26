@@ -8,5 +8,5 @@
 	"tempFolder" : "F:/JGP_Project/Data/013_JGP_2023/Temp",
 	"contentFolder" : "F:/JGP_Project/JGP/ContentFolder",
 	"photoFolder" : "F:/JGP_Project/Data/013_JGP_2023/Photo",
-	"emailFolder" : "F:/JGP_Project/Data/013_JGP_2023/Email"
+	"emailFolder" : "F:/JGP_Project/JGP/SendMail/Incoming"
 }
