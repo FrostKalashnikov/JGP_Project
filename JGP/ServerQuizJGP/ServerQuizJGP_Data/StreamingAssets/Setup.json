@@ -1,12 +1,12 @@
 {
-	"outputFolder": "F:/JGP_Project/JGP/RegisterData",
-	"inputFolder": "F:/JGP_Project/Data/013_JGP_2023/Input",
+	"outputFolder": "C:/JGP_Project/Data/RegisterData",
+	"inputFolder": "C:/JGP_Project/Data/013_JGP_2023/Input",
 	"contentTotalFiles" : 2,
 	"fileErrorName" : "ERROR.txt",
 	"photoFileFormat" : ".png",
 	"videofileFormat" : ".mp4",
-	"tempFolder" : "F:/JGP_Project/Data/013_JGP_2023/Temp",
-	"contentFolder" : "F:/JGP_Project/JGP/ContentFolder",
-	"photoFolder" : "F:/JGP_Project/Data/013_JGP_2023/Photo",
-	"emailFolder" : "F:/JGP_Project/JGP/SendMail/Incoming"
+	"tempFolder" : "C:/JGP_Project/Data/013_JGP_2023/Temp",
+	"contentFolder" : "C:/JGP_Project/Data/ContentFolder",
+	"photoFolder" : "C:/JGP_Project/Data/013_JGP_2023/Photo",
+	"emailFolder" : "C:/JGP_Project/JGP/SendMail/Incoming"
 }
