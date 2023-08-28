@@ -3,7 +3,7 @@
 	"inputFolder": "C:/JGP_Project/Data/013_JGP_2023/Input",
 	"contentTotalFiles" : 2,
 	"fileErrorName" : "ERROR.txt",
-	"photoFileFormat" : ".png",
+	"photoFileFormat" : ".jpg",
 	"videofileFormat" : ".mp4",
 	"tempFolder" : "C:/JGP_Project/Data/013_JGP_2023/Temp",
 	"contentFolder" : "C:/JGP_Project/Data/ContentFolder",
